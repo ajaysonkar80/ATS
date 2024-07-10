@@ -1,4 +1,4 @@
-﻿# ATS_updated_using_PyPDF2_gemini-pro
+﻿# ATS using PyPDF2 Gemini Pro 1.0
 
 ## Smart ATS (Applicant Tracking System)
 
